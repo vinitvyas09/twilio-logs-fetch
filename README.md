@@ -20,8 +20,8 @@ A modern Next.js application for fetching, viewing, and downloading Twilio call 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/twilio-logs-download.git
-   cd twilio-logs-download
+   git clone https://github.com/yourusername/twilio-logs-fetch.git
+   cd twilio-logs-fetch
    ```
 
 2. **Install Dependencies:**
