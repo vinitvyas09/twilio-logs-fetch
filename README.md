@@ -74,8 +74,4 @@ A modern Next.js application for fetching, viewing, and downloading Twilio call 
 
 For more details on Twilio's data export capabilities, visit the [Twilio Bulk Export Documentation](https://www.twilio.com/docs/usage/bulkexport).
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
