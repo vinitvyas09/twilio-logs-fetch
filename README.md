@@ -26,7 +26,7 @@ A modern Next.js application for fetching, viewing, and downloading Twilio call 
 
 2. **Install Dependencies:**
    ```bash
-   npm install
+   bun install
    ```
 
 3. **Configure Environment Variables:**
@@ -40,7 +40,7 @@ A modern Next.js application for fetching, viewing, and downloading Twilio call 
 
 1. Start the development server:
    ```bash
-   npm run dev
+   bun run dev
    ```
 2. Access the app at `http://localhost:3000`
 
